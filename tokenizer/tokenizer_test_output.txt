@@ -1,0 +1,8 @@
+Original Text:
+5G AI telecom research and machine learning
+
+Tokens:
+['5G', 'AI', 'telecom', 'research', 'and', 'ma', 'chine', 'learning']
+
+Token IDs:
+[97, 316, 1526, 470, 93, 188, 810, 1523]
