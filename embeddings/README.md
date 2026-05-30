@@ -145,7 +145,7 @@ pip install numpy
 ## Run the Project
 
 ```bash
-python tokenizer.py
+isignal_tokenizer_with_embeddings (1).py
 ```
 
 The script performs:
